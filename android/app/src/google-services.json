@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35590614534",
+    "project_id": "fanela-18fb9",
+    "storage_bucket": "fanela-18fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35590614534:android:7467f1ab7e979f92329d87",
+        "android_client_info": {
+          "package_name": "com.example.fanela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35590614534-rv8hip7iq6f2u692sf6bip2dqff4ghhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHLNoBH_OA237Dsdzc8-ttFvvoF6eOyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35590614534-rv8hip7iq6f2u692sf6bip2dqff4ghhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
